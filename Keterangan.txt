@@ -1,0 +1,6 @@
+Menurut rencana saya, saya ingin belajar dan membuat pembelajaran lebih banyak tentang web-development
+-html
+-css
+-javascript
+-PHP
+-dll (kemampuan belajar saya dalam web-development)
